@@ -1,6 +1,6 @@
 # Chatterbot Tricks
 
-[![Print](tps://img.shields.io/cookbook/v/chef-sugar.svg)](https://gitprint.com/vkosuri/chatterbot-tricks/blob/master/README.md)
+[![print-small](https://cloud.githubusercontent.com/assets/13664257/21971242/bd4ca508-dbd4-11e6-846e-2eef4a211135.png)](https://gitprint.com/vkosuri/chatterbot-tricks/blob/master/README.md)
 
 Most commonly used [chatterbot](https://github.com/gunthercox/ChatterBot) tips and tricks
 
