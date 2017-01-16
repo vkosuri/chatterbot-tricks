@@ -1,8 +1,7 @@
 # Chatterbot Tricks
 
-[![print-small](https://cloud.githubusercontent.com/assets/13664257/21971242/bd4ca508-dbd4-11e6-846e-2eef4a211135.png)](https://gitprint.com/vkosuri/chatterbot-tricks/blob/master/README.md)
+Most commonly used [chatterbot](https://github.com/gunthercox/ChatterBot) tips and tricks, click here to print [![print-small](https://cloud.githubusercontent.com/assets/13664257/21971242/bd4ca508-dbd4-11e6-846e-2eef4a211135.png)](https://gitprint.com/vkosuri/chatterbot-tricks/blob/master/README.md)
 
-Most commonly used [chatterbot](https://github.com/gunthercox/ChatterBot) tips and tricks
 
 # Table of Contents
 
