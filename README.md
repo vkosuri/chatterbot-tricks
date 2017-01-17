@@ -7,7 +7,7 @@ Most commonly used [chatterbot](https://github.com/gunthercox/ChatterBot) tips a
 
 1. [Chatterbot test into events](#chatbot-text-into-events)
 2. [Combination of both voice and chat](#combination-of-both-voice-and-chat)
-3. [Prioritizing some response over others](#prioritizing-some-responses-over-others)
+3. [Prioritizing some responses over others](#prioritizing-some-responses-over-others)
 4. [Integrating Jinja2 templates into corpus](#integrating-jinja2-templates-into-corpus)
 
 
@@ -28,7 +28,7 @@ I think it's definitely possible, but because it's a web app the audio will have
 
 To implement this, you would have to add some javascript to listen to the user's speech, then it could send that to the Django ChatterBot
 
-## Prioritizing some response over others
+## Prioritizing some responses over others
 
 Ref : [#518](https://github.com/gunthercox/ChatterBot/issues/518)
 
@@ -82,5 +82,5 @@ for pair in corpus_data['conversations']:
 
 
 
-## Pull Requests are most welcome!!
+## Tricks are most welcome, submit a pull request!!
 
